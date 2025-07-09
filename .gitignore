@@ -1,0 +1,36 @@
+# .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# User-specific files
+*.rsuser
+*.sln.ide
+
+# Logs
+*.log
+
+# ASP.NET Secrets
+secrets.json
+
+# Publish output
+publish/
+
+# Rider
+.idea/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Other
+*.db
+*.DS_Store
